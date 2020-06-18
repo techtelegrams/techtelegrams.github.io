@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Laptop","Xiaomi"],
         "url": "/laptop/Mi-Notebook-14-launch-in-india/",
         "teaser": null
+      },{
+        "title": "Motorola One Fusion Plus in India",
+        "excerpt":"Motorola launched One Fusion Plus in Indian market, a new midrange smartphone with Moonlight White and Twilight Blue colour option with a price tag of 16900 INR. White variant has full body white including front, this is one of the unique White colour phone on the market. It comes with...","categories": ["MobilePhone"],
+        "tags": ["MobilePhone","Motorola","Android","MidrangePhone"],
+        "url": "/mobilephone/Motorola-One-Fusion-Plus-in-India/",
+        "teaser": null
       }]
