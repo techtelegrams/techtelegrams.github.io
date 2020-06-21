@@ -10,4 +10,10 @@ var store = [{
         "tags": ["MobilePhone","Motorola","Android","MidrangePhone"],
         "url": "/mobilephone/Motorola-One-Fusion-Plus-in-India/",
         "teaser": null
+      },{
+        "title": "Apple WWDC 2020 kick off on June 22",
+        "excerpt":"Apple’s WWDC (World Wide Developers Conference) 2020 kick off on June 22nd from Apple Park. Like any other tech event in 2020, this event also going to happen completely on online due to the worst impact of COVID-19 pandemic. Apple’s Jump from intel to ARM Apple might announce about its...","categories": ["Apple"],
+        "tags": ["Apple","MobilePhone","Laptop"],
+        "url": "/apple/Apple-WWDC-2020-kick-off-on-June-22/",
+        "teaser": null
       }]
