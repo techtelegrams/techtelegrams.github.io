@@ -16,4 +16,10 @@ var store = [{
         "tags": ["Apple","MobilePhone","Laptop"],
         "url": "/apple/Apple-WWDC-2020-kick-off-on-June-22/",
         "teaser": null
+      },{
+        "title": "No order from Indian Government to ban Chinese App",
+        "excerpt":"A viral memo from NIC (National Informatics Centre) circulating on Indian social media which states that Government placed an order to ban Chinese Apps on Google play store and Apple App Store. This is fake news. PIB (Press Information Bureau) an Indian government agency announced this as fake memo. This...","categories": ["Internet"],
+        "tags": ["Internet","Android","Apple"],
+        "url": "/internet/No-Order-From-Indian-Goverment-to-ban-Chinese-App/",
+        "teaser": null
       }]
