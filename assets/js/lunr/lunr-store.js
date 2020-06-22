@@ -22,4 +22,10 @@ var store = [{
         "tags": ["Internet","Android","Apple"],
         "url": "/internet/No-Order-From-Indian-Goverment-to-ban-Chinese-App/",
         "teaser": null
+      },{
+        "title": "Amazfit Stratos 3 SmartWatch from Huami launched in India",
+        "excerpt":"Huami’s Amazfit Stratos 3 launched in India today with 80 different sport tracking and with 14 days battery backup at the price of 13,999 INR. It will be available for purchase in Flipkart from today 8PM. External Specification Display: 1.34” Round Transflective Display with 320x320 pixel. Transflective display is an...","categories": ["Wearable"],
+        "tags": ["Wearable","Huami","Android"],
+        "url": "/wearable/Amazfit-Stratos-3-SmartWatch-from-Huami-launched-in-India/",
+        "teaser": null
       }]
