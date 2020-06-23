@@ -28,4 +28,10 @@ var store = [{
         "tags": ["Wearable","Huami","Android"],
         "url": "/wearable/Amazfit-Stratos-3-SmartWatch-from-Huami-launched-in-India/",
         "teaser": null
+      },{
+        "title": "Apple jumps from Intel to ARM: One App to run on iPhone, iPad and Mac",
+        "excerpt":"Apple’s Mac Computers (MacBook, iMac and Mac Pro) are currently running on Intel Processors which is going to be changed to run on in-house ARM processors. By this change Apple can deliver higher security, stability, performance and lesser power consumption with in-house ARM processors. History of Mac Computers Mac Computer...","categories": ["Apple"],
+        "tags": ["Apple","Arm","Intel","Laptop","Desktop"],
+        "url": "/apple/Apple-Jumps-from-Intel-to-ARM-One-App-to-run-on-iPhone-iPad-and-Mac/",
+        "teaser": null
       }]
