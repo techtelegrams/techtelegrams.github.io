@@ -40,4 +40,10 @@ var store = [{
         "tags": ["Television","SmartTV","Android","Apple"],
         "url": "https://techtelegrams.com/television/Does-4K-TV-really-need-to-be-Smart/",
         "teaser": null
+      },{
+        "title": "Google's option to Cleanup User Data for better handling of User Privacy",
+        "excerpt":"So far every Google user is concerned about the data (Search history, Location, etc) collected by Google for providing future recommendations about related News, Videos, Ads, Products etc. Now Google has finally reacted for this user concern with a solution of clearing the collected User Activity Data after certain months...","categories": ["Internet"],
+        "tags": ["Internet","Google","Security","Privacy"],
+        "url": "https://techtelegrams.com/internet/googles-option-to-cleanup-user-data-for-better-handling-of-user-privacy/",
+        "teaser": null
       }]
