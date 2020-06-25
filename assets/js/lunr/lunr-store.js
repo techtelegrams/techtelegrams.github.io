@@ -34,4 +34,10 @@ var store = [{
         "tags": ["Apple","Arm","Intel","Laptop","Desktop"],
         "url": "https://techtelegrams.com/apple/Apple-Jumps-from-Intel-to-ARM-One-App-to-run-on-iPhone-iPad-and-Mac/",
         "teaser": null
+      },{
+        "title": "Does 4K TV really need to be Smart",
+        "excerpt":"Television is a major entertainment in Household for more than half century years. Even now it is one of most utilized thing for entertainment in every households in this planet. Now 4K LED TV with larger screen sizes are becoming more affordable. At this time of writing lot of affordable...","categories": ["Television"],
+        "tags": ["Television","SmartTV","Android","Apple"],
+        "url": "https://techtelegrams.com/television/Does-4K-TV-really-need-to-be-Smart/",
+        "teaser": null
       }]
