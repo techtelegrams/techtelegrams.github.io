@@ -46,4 +46,10 @@ var store = [{
         "tags": ["Internet","Google","Security","Privacy"],
         "url": "https://techtelegrams.com/internet/googles-option-to-cleanup-user-data-for-better-handling-of-user-privacy/",
         "teaser": null
+      },{
+        "title": "Google's new feature on Android Phone will help to identify Spam Calls",
+        "excerpt":"MobilePhone is a Fabulous Tool invented for and by Human Mankind in this Planet. It helps us to send and receive data (voice or text) to our dears and nears instantly. And we can even get any information (news, entertainment, etc) instantly. And it is very handy to carry with...","categories": ["MobilePhone"],
+        "tags": ["MobilePhone","Google","Security","Android"],
+        "url": "https://techtelegrams.com/mobilephone/googles-new-feature-on-android-phone-will-help-to-identify-spam-calls/",
+        "teaser": null
       }]
